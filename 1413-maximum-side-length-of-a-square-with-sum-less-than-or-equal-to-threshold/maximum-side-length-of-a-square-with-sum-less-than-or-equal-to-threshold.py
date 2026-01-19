@@ -1,5 +1,5 @@
-class Solution:
-    def maxSideLength(self, mat: List[List[int]], threshold: int) -> int:
+class Solution(object):
+    def maxSideLength(self, mat, threshold):
         m, n = len(mat), len(mat[0])
 
         pref = [[0] * (n + 1) for _ in range(m + 1)]
