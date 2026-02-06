@@ -1,12 +1,12 @@
 class Solution:
     def minRemoval(self, nums: List[int], k: int) -> int:
         nums.sort()
-        i = 0
-        max_len = 0
-        
-        for j in range(len(nums)):
-            while nums[j] > nums[i] * k:
-                i += 1
-            max_len = max(max_len, j - i + 1)
-            
-        return len(nums) - max_len
+        if nums[0]*k>=nums[-1]: return 0
+        n=len(nums)
+        ans=n
+        l=0
+        for r, x in enumerate(nums):
+            while l<r and nums[l]*k<x:
+                l+=1
+            ans=min(ans, n-r+l-1)
+        return ans
