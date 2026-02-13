@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Dev-Ash01/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Dev-Ash01/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 ## String
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Dev-Ash01/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Dev-Ash01/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 ## Counting
 |  |
 | ------- |
@@ -17,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Dev-Ash01/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3714-longest-balanced-substring-ii](https://github.com/Dev-Ash01/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 <!---LeetCode Topics End-->
