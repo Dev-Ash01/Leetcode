@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Dev-Ash01/Leetcode/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/Dev-Ash01/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/Dev-Ash01/Leetcode/tree/master/0761-special-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Dev-Ash01/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Dev-Ash01/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 ## Counting
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Dev-Ash01/Leetcode/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/Dev-Ash01/Leetcode/tree/master/0761-special-binary-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Dev-Ash01/Leetcode/tree/master/0696-count-binary-substrings) |
+## Sorting
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/Dev-Ash01/Leetcode/tree/master/0761-special-binary-string) |
 <!---LeetCode Topics End-->
