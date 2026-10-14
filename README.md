@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Dev-Ash01/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Dev-Ash01/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Dev-Ash01/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3714-longest-balanced-substring-ii](https://github.com/Dev-Ash01/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dev-Ash01/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dev-Ash01/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1480-running-sum-of-1d-array](https://github.com/Dev-Ash01/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Dev-Ash01/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1672-richest-customer-wealth](https://github.com/Dev-Ash01/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1980-find-unique-binary-string](https://github.com/Dev-Ash01/Leetcode/tree/master/1980-find-unique-binary-string) |
