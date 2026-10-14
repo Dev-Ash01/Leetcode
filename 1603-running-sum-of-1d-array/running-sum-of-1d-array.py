@@ -1,11 +1,7 @@
 class Solution:
-    def runningSum(self, nums: list[int]) -> list[int]:
-        previous_sum = 0
-
-        for i in range(0,len(nums)):
-            previous_sum += nums[i]
-            nums[i] = previous_sum
-
+    def runningSum(self, nums):
+        # Intuition: store each prefix in nums
+        for i in range(1, len(nums)):
+            nums[i] += nums[i-1]
         return nums
-
 
