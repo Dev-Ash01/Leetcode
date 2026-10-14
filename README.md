@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Dev-Ash01/Leetcode/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dev-Ash01/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Dev-Ash01/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Dev-Ash01/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Bit Manipulation
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dev-Ash01/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Dev-Ash01/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dev-Ash01/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/Dev-Ash01/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Dev-Ash01/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
